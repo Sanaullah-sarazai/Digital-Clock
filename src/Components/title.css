@@ -1,0 +1,8 @@
+.clock{
+    flex-wrap: wrap;
+}
+
+.clock > h1 {
+    display: flex;
+    justify-content: center;
+}
